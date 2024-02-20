@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#home-screen{
+
+    width: 100vw;
+    height: 100vh;
+    background-color: honeydew;
+    text-align: center;
+}
+
+#welcome-text{
+    padding-top: 2%;
+}
+
+#Box {
+    background-color: aquamarine;
+    width: 250px;
+    height: 250px;
+    margin: 50px auto;
+}
+
+#Image {
+    width: 200px;
+    top:500px;
+    left:50px;
+    position:absolute;
+}
